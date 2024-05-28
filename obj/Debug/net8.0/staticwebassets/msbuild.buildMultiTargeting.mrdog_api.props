@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/mrdog_api.props" />
+</Project>
